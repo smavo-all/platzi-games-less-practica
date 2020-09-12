@@ -15,6 +15,23 @@ body {
   color: #333333;
   font-size: 18px;
   line-height: 28px;
+  background-color: #333333;
+  color: #FFFFFF;
+}
+body .intro {
+  background-color: #8841da;
+}
+body .caja span {
+  color: rgba(255, 255, 255, 0.8);
+}
+body .caja__contenido {
+  background-color: #8841da;
+}
+body .caja__contenido a {
+  color: rgba(255, 255, 255, 0.5);
+}
+body .articulo--principal h2 {
+  color: #8841da;
 }
 h1,
 h2,
