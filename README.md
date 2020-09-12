@@ -7,9 +7,9 @@ npm install -g less
 ## Compilar de less a css
 lessc platzigames.less platzigames.css
 
-# Instalar Pug
+## Instalar Pug
 npm install pug-cli -g
 
-# Compilar de Pug a Html
+## Compilar de Pug a Html
 pug -w --pretty articulo.pug
 
