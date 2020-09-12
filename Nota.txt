@@ -1,7 +1,7 @@
-Use with Node.js:
+Uso en la terminal:
 > npm install -g less
 > lessc platzigames.less platzigames.css
 
-Or the browser:
+Importarlo como CDN:
 <link rel="stylesheet/less" type="text/css" href="styles.less" />
 <script src="//cdn.jsdelivr.net/npm/less" ></script>
